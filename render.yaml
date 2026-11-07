@@ -3,5 +3,3 @@ services:
     name: cricash-project
     runtime: docker
     plan: free
-   "php -S 0.0.0.0:$PORT index.php"
-    
